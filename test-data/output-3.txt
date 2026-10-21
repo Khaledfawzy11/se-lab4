@@ -1,0 +1,2 @@
+SUCCESS  # GT4500 initialization
+FAIL     # no fallback after a store failure

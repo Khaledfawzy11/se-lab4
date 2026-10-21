@@ -1,0 +1,4 @@
+# SINGLE should use one store per call; both stores have one torpedo
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

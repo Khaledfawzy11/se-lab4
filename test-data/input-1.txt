@@ -1,0 +1,4 @@
+# Primary fires first; second SINGLE alternates to the failing secondary store
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

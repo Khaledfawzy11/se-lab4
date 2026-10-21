@@ -1,0 +1,3 @@
+# Primary is empty, so SINGLE should try the secondary store
+GT4500,0,0,1,0
+TORPEDO,SINGLE

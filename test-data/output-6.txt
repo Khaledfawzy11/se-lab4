@@ -1,0 +1,3 @@
+SUCCESS  # GT4500 initialization
+SUCCESS  # first store fires
+SUCCESS  # second store fires
