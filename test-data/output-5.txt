@@ -1,0 +1,2 @@
+SUCCESS  # GT4500 initialization
+FAIL     # neither store fires
